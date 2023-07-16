@@ -1,5 +1,5 @@
 
-# KrityHack 0.5 :video_game: [ВРЕМЕННО СКРИПТ НЕ РАБОТАЕТ]
+# KrityHack doomed2.io :video_game: [ВРЕМЕННО СКРИПТ НЕ РАБОТАЕТ]
 
 **Описание:** Чит для doomed2.io
 
